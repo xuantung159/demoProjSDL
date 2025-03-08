@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    cout << "abc";
+    for(int i = 0; i < 10; i++) {
+        cout << i << endl;
+    }
     return 0;
 }
